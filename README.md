@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm swapnesh panda</h1>
 <h3 align="center">React Developer | Proficient in React and 3D Modeling (20+ Models) | Intermediate in Next.js, Three.js | Basic Knowledge of Express.js, MongoDB, and TypeScript</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnesh839&label=Profile%20views&color=0e75b6&style=flat" alt="swapnesh839" /> </p>
+<p align="left"> <img width="100%" src="https://komarev.com/ghpvc/?username=swapnesh839&label=Profile%20views&color=0e75b6&style=flat" alt="swapnesh839" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnesh839&show_icons=true&locale=en" alt="swapnesh839" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnesh839" alt="swapnesh839" /></a> </p>
