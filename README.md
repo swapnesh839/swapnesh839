@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm swapnesh panda</h1>
-<h3 align="center">Full Stack Developer skilled in MERN, TypeScript, Next.js, Three.js, React Three Fiber, Blender, Framer Motion, Tailwind CSS, Redux Toolkit, and Documentation Writing.
+<h3 align="center">Full Stack Developer skilled in MERN, TypeScript, Next.js, Three.js, React Three Fiber, Blender, Framer Motion, Tailwind CSS, Redux Toolkit, React Native and Documentation Writing.
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnesh839&label=Profile%20views&color=0e75b6&style=flat" alt="swapnesh839" /> </p>
 <p>&nbsp;<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=swapnesh839&show_icons=true&locale=en" alt="swapnesh839" /></p>
