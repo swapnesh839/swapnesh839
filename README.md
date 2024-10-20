@@ -1,10 +1,4 @@
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
-  body {
-    font-family: 'Roboto', sans-serif;
-  }
-</style>
 <h1 align="center">Hi 👋, I'm swapnesh panda</h1>
 <h3 align="center">Full Stack Developer skilled in MERN, TypeScript, Next.js, Three.js, React Three Fiber, Blender, Framer Motion, Tailwind CSS, Redux Toolkit, and Documentation Writing.
 </h3>
