@@ -4,6 +4,7 @@
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnesh839&label=Profile%20views&color=0e75b6&style=flat" alt="swapnesh839" /> </p>
 <p>&nbsp;<img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=swapnesh839&show_icons=true&locale=en" alt="swapnesh839" /></p>
+[![](https://visitcount.itsvg.in/api?id=swapnesha839&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Python**
 
