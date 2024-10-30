@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer skilled in MERN, TypeScript, Next.js, Three.js, React Three Fiber, Blender, Framer Motion, Tailwind CSS, Redux Toolkit, React Native and Documentation Writing.
 </h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnesh839&label=Profile%20views&color=0e75b6&style=flat" alt="swapnesh839" /> </p> -->
-<p>&nbsp;<img width="100%" align="center" src="https://visitcount.itsvg.in/api?id=swapnesh839&label=Profile%20Views&color=1&pretty=true" alt="swapnesh839" /></p>
+<p>&nbsp;<img width="200px" align="left" src="https://visitcount.itsvg.in/api?id=swapnesh839&label=Profile%20Views&color=1&pretty=true" alt="swapnesh839" /></p>
 <!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=swapnesh839&label=Profile%20Views&color=1&pretty=true" />
 </a> -->
