@@ -1,10 +1,10 @@
 # Hi 👋, I'm Swapnesh Panda
 
-### Full Stack Developer skilled in MERN, TypeScript, Next.js, Three.js, React Three Fiber, Blender, Framer Motion, Tailwind CSS, Redux Toolkit, React Native, and Documentation Writing.
+### Full Stack Developer skilled in MERN, TypeScript, Next.js, Three.js, React Three Fiber, Blender, Framer Motion, Tailwind CSS, Redux Toolkit and Documentation Writing.
 
 <p>&nbsp;<img width="200px" align="left" src="https://visitcount.itsvg.in/api?id=swapnesh839&label=Profile%20Views&color=1&pretty=true" alt="swapnesh839" /></p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **flutter**
 - 📫 How to reach me: **business.swapnesh@gmail.com**
 
 ---
