@@ -19,7 +19,7 @@
 
 ### NPM Packages:
 <p align="left">
-<a href="https://www.npmjs.com/~swapnesh-panda](https://www.npmjs.com/~swapneshdeete" target="_blank"><img align="center" src="https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw" alt="nomjs" height="30" width="30" /></a>
+<a href="https://www.npmjs.com/~swapneshdeete" target="_blank"><img align="center" src="https://imgs.search.brave.com/129PsExJCizx2_pC-7e4exnT1C0gWE4PUinIWjrXr-4/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMzg1ZTZiOGFm/M2NhY2JjMmE1NmJl/ZTRlODIwNDVhZWIy/OWRjZDgzYjYyYjcw/NjhmNzQzMWM0NDBk/Y2U3MGIzMi93d3cu/bnBtanMuY29tLw" alt="nomjs" height="30" width="30" /></a>
 </p>
 
 ---
