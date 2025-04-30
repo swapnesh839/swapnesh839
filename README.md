@@ -13,5 +13,4 @@
 
 <p align="left"> <img target="_blank" src="https://github-profile-trophy.vercel.app/?username=swapnesh839" alt="swapnesh839" /></p>
 
-<p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnesh839&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="swapnesh839" /></p>
 <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=swapnesh839&theme=tokyonight&hide_border=true" alt="swapnesh839" /></p>
