@@ -1,7 +1,6 @@
 # Hi 👋, I'm Swapnesh Panda
 - 📫 How to reach me: **business.swapnesh@gmail.com**
 
----
 
 ### Connect with me:
 <p align="left">
