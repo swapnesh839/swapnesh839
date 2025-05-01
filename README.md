@@ -8,5 +8,4 @@
 <a target="_blank" href="https://www.instagram.com/swapnesh.io/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/swapnesh.io/" height="30" width="40" /></a>
 </p>
 
-```html
 <iframe src="https://threereactexamples.netlify.app" width="800" height="600" frameborder="0"></iframe>
