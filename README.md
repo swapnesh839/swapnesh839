@@ -16,27 +16,6 @@
   <a href="https://threereactexamples.netlify.app">
     <img src="./img/FlyControl.gif" alt="Demo Preview" />
   </a>
-  <a href="https://threereactexamples.netlify.app">
-    <img src="./img/FlyControl.gif" alt="Demo Preview" />
-  </a>
-  <a href="https://threereactexamples.netlify.app">
-    <img src="./img/FlyControl.gif" alt="Demo Preview" />
-  </a>
-  <a href="https://threereactexamples.netlify.app">
-    <img src="./img/FlyControl.gif" alt="Demo Preview" />
-  </a>
-  <a href="https://threereactexamples.netlify.app">
-    <img src="./img/FlyControl.gif" alt="Demo Preview" />
-  </a>
-  <a href="https://threereactexamples.netlify.app">
-    <img src="./img/FlyControl.gif" alt="Demo Preview" />
-  </a>
-  <a href="https://threereactexamples.netlify.app">
-    <img src="./img/FlyControl.gif" alt="Demo Preview" />
-  </a>
-  <a href="https://threereactexamples.netlify.app">
-    <img src="./img/FlyControl.gif" alt="Demo Preview" />
-  </a>
 </div>
 
 
