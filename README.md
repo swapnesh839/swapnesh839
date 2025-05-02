@@ -10,10 +10,57 @@
 
 
 ### React webGL Examples:
-<div style="display: flex; flex-wrap: wrap;>
-  <a href="https://threereactexamples.netlify.app" style="width: 30%; aspect-ratio: 2 / 1;">
-    <img src="./img/FlyControl.gif" alt="Demo Preview" style="width: 100%; height: 100%; object-fit: cover;" />
+<style>
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .container a {
+    flex: 1 1 calc(33.333% - 10px);
+    aspect-ratio: 2 / 1;
+  }
+
+  .container img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  @media (max-width: 768px) {
+    .container a {
+      flex: 1 1 100%;
+    }
+  }
+</style>
+
+<div class="container">
+  <a href="https://threereactexamples.netlify.app">
+    <img src="./img/FlyControl.gif" alt="Demo Preview" />
+  </a>
+  <a href="https://threereactexamples.netlify.app">
+    <img src="./img/FlyControl.gif" alt="Demo Preview" />
+  </a>
+  <a href="https://threereactexamples.netlify.app">
+    <img src="./img/FlyControl.gif" alt="Demo Preview" />
+  </a>
+  <a href="https://threereactexamples.netlify.app">
+    <img src="./img/FlyControl.gif" alt="Demo Preview" />
+  </a>
+  <a href="https://threereactexamples.netlify.app">
+    <img src="./img/FlyControl.gif" alt="Demo Preview" />
+  </a>
+  <a href="https://threereactexamples.netlify.app">
+    <img src="./img/FlyControl.gif" alt="Demo Preview" />
+  </a>
+  <a href="https://threereactexamples.netlify.app">
+    <img src="./img/FlyControl.gif" alt="Demo Preview" />
+  </a>
+  <a href="https://threereactexamples.netlify.app">
+    <img src="./img/FlyControl.gif" alt="Demo Preview" />
   </a>
 </div>
+
 
 
