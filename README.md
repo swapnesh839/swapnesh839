@@ -11,6 +11,3 @@
 
 [![Demo Preview](./img/FlyControl.gif)](https://threereactexamples.netlify.app)
 
-
-[![WebGL Preview](https://media.licdn.com/dms/image/v2/D4E22AQGaABd3BbuTdA/feedshare-shrink_800/B4EZYHAoyhG0Ag-/0/1743874716223?e=1749081600&v=beta&t=W18vEGB2jWddGqOC2lCscSw6513uW59Ak8aakOSu7oM)](https://threereactexamples.netlify.app)
-
