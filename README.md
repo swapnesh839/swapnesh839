@@ -9,6 +9,8 @@
 </p>
 
 
-React webGL Examples :-
-[![Demo Preview](./img/FlyControl.gif)](https://threereactexamples.netlify.app)
+### React webGL Examples:
+<div>
+  [![Demo Preview](./img/FlyControl.gif)](https://threereactexamples.netlify.app)
+</div>
 
