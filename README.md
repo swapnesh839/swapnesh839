@@ -14,6 +14,12 @@
   <a href="https://threereactexamples.netlify.app" style="width: 30%; aspect-ratio: 2 / 1;">
     <img src="./img/FlyControl.gif" alt="Demo Preview" style="width: 100%; height: 100%; object-fit: cover;" />
   </a>
+  <a href="https://threereactexamples.netlify.app" style="width: 30%; aspect-ratio: 2 / 1;">
+    <img src="./img/FlyControl.gif" alt="Demo Preview" style="width: 100%; height: 100%; object-fit: cover;" />
+  </a>
+  <a href="https://threereactexamples.netlify.app" style="width: 30%; aspect-ratio: 2 / 1;">
+    <img src="./img/FlyControl.gif" alt="Demo Preview" style="width: 100%; height: 100%; object-fit: cover;" />
+  </a>
 </div>
 
 
