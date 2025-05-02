@@ -10,7 +10,10 @@
 
 
 ### React webGL Examples:
-<div>
-  [![Demo Preview](./img/FlyControl.gif)](https://threereactexamples.netlify.app)
+<div style="display: flex; flex-wrap: wrap;">
+  <a href="https://threereactexamples.netlify.app" style="width: 30%; aspect-ratio: 2 / 1;">
+    <img src="./img/FlyControl.gif" alt="Demo Preview" style="width: 100%; height: 100%; object-fit: cover;" />
+  </a>
 </div>
+
 
