@@ -13,7 +13,7 @@
 
 
 <div class="container">
-  <a href="https://threereactexamples.netlify.app">
+  <a href="https://three.swapnesh.icu/">
     <img src="./img/FlyControl.gif" alt="Demo Preview" />
   </a>
 </div>
