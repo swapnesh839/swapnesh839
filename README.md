@@ -1,6 +1,6 @@
 # Hi 👋, I'm Swapnesh Panda
 
-#Software Engineer | MERN Stack Developer | Three.js Enthusiast | Exploring Microfrontend Architecture
+## SOFTWARE ENGINEER | MERN STACK DEVELOPER | THREE.JS DEVELOPER | MICROFRONTEND ENGINEER | FRONTEND ARCHITECT
 
 - 📫 How to reach me: **business.swapnesh@gmail.com**
 
